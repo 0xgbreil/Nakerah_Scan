@@ -18,7 +18,7 @@ Nakerah Scan is a versatile and efficient tool designed for scanning ports on a 
 
 To install and run **Nakerah Scan**, follow these steps:
 
-1. **Clone the repository**:
+### Linux 
    ```bash
    sudo apt update
    sudo apt install git
