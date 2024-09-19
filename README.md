@@ -25,7 +25,8 @@ To install and run **Nakerah Scan**, follow these steps:
    sudo apt install python3
    git Clone https://github.com/0xgbreil/Nakerah_Scan.git
    cd Nakerah_Scan
-   python3 nakerah_scan.py 
+   python3 nakerah_scan.py
+```
 ## Usage
 
 ```bash
