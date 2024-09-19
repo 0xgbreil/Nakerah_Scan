@@ -42,5 +42,5 @@ python3 nakerah_scan.py <IP>                         # Scan common ports
 python3 nakerah_scan.py <port>                      # Show usage if port only
 ```
 ## Contact us
-for any problems  please contact us 
+For any problems or inquiries, please contact us at:
 https://www.linkedin.com/in/mohammed-gbreil-b07382329/
