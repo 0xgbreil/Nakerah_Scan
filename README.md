@@ -40,4 +40,7 @@ python3 nakerah_scan.py <IP> <port>                  # Scan a single port
 python3 nakerah_scan.py <IP> <port1> <port2> ...      # Scan multiple specific ports
 python3 nakerah_scan.py <IP>                         # Scan common ports
 python3 nakerah_scan.py <port>                      # Show usage if port only
-
+```
+## Contact us
+for any problems  please contact us 
+https://www.linkedin.com/in/mohammed-gbreil-b07382329/
