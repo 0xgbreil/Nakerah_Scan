@@ -6,6 +6,7 @@
 ## Description
 
 Nakerah Scan is a versatile and efficient tool designed for scanning ports on a given IP address or domain. With its user-friendly interface and robust features, it allows you to quickly identify open ports and gather essential information about the services running on them. Whether you need to scan a single port, a range of ports, or a list of specific ports, Nakerah Scan provides a straightforward and efficient solution.
+![Nakerah Scan Screenshot](./image1.jpg)
 
 ## Features
 
