@@ -28,11 +28,11 @@ To install and run **Nakerah Scan**, follow these steps:
    sudo apt update
    sudo apt install git
    sudo apt install python3
-   git Clone https://github.com/0xgbreil/Nakerah_Scan.git
+   git clone https://github.com/0xgbreil/Nakerah_Scan.git
    cd Nakerah_Scan
    python3 nakerah_scan.py
 ```
-## Usage
+## Running the Tool
 
 ```bash
 python3 nakerah_scan.py <IP> <start_port> <end_port>   # Scan a range of ports
