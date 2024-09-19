@@ -14,7 +14,18 @@ Nakerah Scan is a versatile and efficient tool designed for scanning ports on a 
 - **Flexible Port Scanning**: Scan a single port, a range of ports, or multiple specific ports.
 - **Service Identification**: Identify the service running on open ports.
 - **User-friendly Interface**: Clear and colorful output to enhance readability and user experience.
+## Installation
 
+To install and run **Nakerah Scan**, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   sudo apt update
+   sudo apt install git
+   sudo apt install python3
+   git Clone https://github.com/0xgbreil/Nakerah_Scan.git
+   cd Nakerah_Scan
+   python3 nakerah_scan.py <IP> <start_port> <end_port>
 ## Usage
 
 ```bash
